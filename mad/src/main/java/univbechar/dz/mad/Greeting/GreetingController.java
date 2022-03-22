@@ -1,11 +1,11 @@
-package univbechar.dz.mad.controller;
+package univbechar.dz.mad.Greeting;
 
 import java.util.concurrent.atomic.AtomicLong;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-import univbechar.dz.mad.services.Greeting;
+import univbechar.dz.mad.Greeting.Greeting;
 
 @RestController
 public class GreetingController {

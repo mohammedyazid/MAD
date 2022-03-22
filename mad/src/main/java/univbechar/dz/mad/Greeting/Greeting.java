@@ -1,4 +1,4 @@
-package univbechar.dz.mad.services;
+package univbechar.dz.mad.Greeting;
 
 public class Greeting {
 
